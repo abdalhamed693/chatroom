@@ -1,0 +1,20 @@
+.container{
+    max-width: 600px;
+}
+.btn{
+    background-color: darkviolet;
+    color: white;
+}
+.chat-list li {
+  list-style: none;
+}
+.user{
+    font-weight: bold;
+}
+.time{
+    font-weight: lighter;
+}
+.feed{
+    text-align: center;
+    margin: 20px auto;
+}
